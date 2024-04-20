@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="windows_x86_64"/>
+    <Units>
+      <Unit>
+        <Filename Value="example.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="35"/>
+        <CursorPos X="91" Y="78"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <UnitName Value="fafafa.snowFlake"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="5"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\dtama\Downloads\Snowflake.pas"/>
+        <WindowIndex Value="1"/>
+        <TopLine Value="208"/>
+        <CursorPos X="7" Y="154"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\3rd\fafafa.stopWatch\src\fafafa.stopwatch.pas"/>
+        <UnitName Value="fafafa.stopWatch"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="872"/>
+        <CursorPos X="58" Y="911"/>
+        <UsageCount Value="12"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fafafa.stopWatch\example\example.lpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="221"/>
+        <CursorPos X="54" Y="247"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="396"/>
+        <CursorPos X="10" Y="434"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fafafa.stopWatch\src\fafafa.stopwatch.pas"/>
+        <UnitName Value="fafafa.stopWatch"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="843"/>
+        <CursorPos X="40" Y="907"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="26">
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="699" Column="3" TopLine="697"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="422" Column="12" TopLine="387"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="83" Column="5" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="500" Column="20" TopLine="460"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="983" Column="28" TopLine="971"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="85" Column="29" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="506" Column="23" TopLine="475"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="993" Column="3" TopLine="971"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="834" Column="64" TopLine="907"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="870" Column="18" TopLine="834"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="28" Column="39"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="209" Column="120" TopLine="223"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="72" Column="267" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="139" Column="21" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="85" Column="19" TopLine="58"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="638" Column="3" TopLine="636"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="82" Column="24" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="632" Column="5" TopLine="627"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="698" Column="130" TopLine="978"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="212" Column="94" TopLine="177"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="889" Column="36" TopLine="888"/>
+      </Position>
+      <Position>
+        <Filename Value="..\fafafa.snowflake.pas"/>
+        <Caret Line="212" Column="95" TopLine="177"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="83" Column="5" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="95" Column="3" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="93" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="79" Column="13" TopLine="35"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="78" Column="91" TopLine="35"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

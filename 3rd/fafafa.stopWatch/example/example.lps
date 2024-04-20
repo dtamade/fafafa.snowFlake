@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="windows_x86_64"/>
+    <Units>
+      <Unit>
+        <Filename Value="example.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="21"/>
+        <CursorPos X="58" Y="54"/>
+        <UsageCount Value="165"/>
+        <Bookmarks Count="1">
+          <Item0 X="17" Y="283" ID="8"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="fafafa.stopWatch"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="26" Y="550"/>
+        <UsageCount Value="165"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fafafa.Watch_old\src\fafafa.watch.pas"/>
+        <UnitName Value="fafafa.Watch"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="242"/>
+        <CursorPos X="51" Y="657"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\objpas\sysutils\sysutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="39"/>
+        <UsageCount Value="68"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\unix\sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="331"/>
+        <CursorPos X="20" Y="340"/>
+        <UsageCount Value="68"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\linux\unxsysch.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="14" Y="16"/>
+        <UsageCount Value="68"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\linux\linux.pp"/>
+        <UnitName Value="Linux"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="456"/>
+        <CursorPos X="10" Y="491"/>
+        <UsageCount Value="68"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\win\systhrd.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="514"/>
+        <CursorPos X="8" Y="549"/>
+        <UsageCount Value="43"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\ccr\flre\examples\common\BeRoHighResolutionTimer.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="422"/>
+        <CursorPos X="37" Y="436"/>
+        <UsageCount Value="46"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\win\wininc\redef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="717"/>
+        <CursorPos X="10" Y="752"/>
+        <UsageCount Value="46"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\win\wininc\struct.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2206"/>
+        <CursorPos X="36" Y="2242"/>
+        <UsageCount Value="46"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\fafafa.Allocator2\src\fafafa.allocator.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="477"/>
+        <CursorPos X="3" Y="491"/>
+        <UsageCount Value="39"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\inc\threadh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="118"/>
+        <CursorPos X="11" Y="153"/>
+        <UsageCount Value="43"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1996"/>
+        <CursorPos X="21" Y="2030"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\objpas\classes\classes.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="805"/>
+        <CursorPos X="15" Y="808"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\inc\cmem.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="106"/>
+        <CursorPos X="55" Y="131"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\..\..\c\play\time_rdtsc-master\time_rdtsc.h"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="29"/>
+        <CursorPos X="54" Y="54"/>
+        <UsageCount Value="12"/>
+        <DefaultSyntaxHighlighter Value="C_2B_2B"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\unix\aliasptp.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="5" Y="68"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\linux\ptypes.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="147"/>
+        <CursorPos X="25" Y="180"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\devtools\lazarus\nextgen\fpcsrc\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1438"/>
+        <CursorPos X="11" Y="1472"/>
+        <UsageCount Value="21"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="27">
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="118" Column="58" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="266" Column="36" TopLine="233"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="923" Column="42" TopLine="921"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="1002" Column="26"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="915" Column="12" TopLine="880"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="265" Column="34" TopLine="230"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="189" Column="35" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="399" Column="11" TopLine="369"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="405" Column="14" TopLine="378"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="116" Column="15" TopLine="82"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="96" Column="27" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="163" Column="30" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="101" Column="11" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="688" Column="3" TopLine="686"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="101" Column="11" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="688" Column="3" TopLine="686"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="98" Column="11" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="687" Column="35" TopLine="670"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="183" Column="17" TopLine="169"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="101" Column="24" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="688" Column="3" TopLine="686"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="89" Column="33" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="645" Column="3" TopLine="643"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="89" Column="11" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="645" Column="3" TopLine="643"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="101" Column="11" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="690" Column="25" TopLine="686"/>
+      </Position>
+      <Position>
+        <Filename Value="example.lpr"/>
+        <Caret Line="103" Column="30" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="101" Column="11" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\fafafa.stopwatch.pas"/>
+        <Caret Line="688" Column="3" TopLine="686"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="example.lpr"/>
+        <Line Value="192"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item>
+        <Expression Value="tscCPUClock"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
